@@ -1,3 +1,9 @@
+
+{
+  "scripts": {
+    "build": "[my-framework] build --output public"
+  }
+}
 {
   "name": "perplexica-backend",
   "version": "1.5.0",
